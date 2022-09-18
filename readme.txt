@@ -2,3 +2,4 @@
 用sha256加密kiss102030
 芝士git
 密码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
+try git
